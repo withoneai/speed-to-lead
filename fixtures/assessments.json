@@ -1,0 +1,60 @@
+{
+  "c101": {
+    "fit": "strong",
+    "reply": "book_call",
+    "reason": "Controller at Kestrel Freight (340 employees per CRM) on Brex, describing a concrete month-end close and card spend problem and asking to see the product. One flag: logistics is not one of our listed industries.",
+    "evidence": [
+      "Finance, accounting or operations leaders (controller, VP Finance, CFO, head of FP&A, RevOps lead) at the buyer company.",
+      "Companies with 50 to 2,000 employees.",
+      "They already use a card program (Brex, Ramp, Amex) or an accounting system (QuickBooks, Xero, NetSuite)."
+    ],
+    "subject": "Seeing Harborline on your Brex card spend",
+    "body": "Hi Priya,\n\nHappy to show you. The best way is a short call where we walk through card spend with you. You can pick a time here: https://cal.example.com/harborline/intro\n\nHarborline connects to Brex directly. It reads your card, bill and payroll data and shows you where the month went. On the call we can look at how that fits a close that currently takes nine days, with so much of it spent chasing receipts.\n\nIf you'd like to go over anything before the call, just reply here.\n\nSam, Harborline"
+  },
+  "c102": {
+    "fit": "possible",
+    "reply": "answer_first",
+    "reason": "Lumen Ledger is a 120 employee software company (right company), but Tom is a Senior Software Engineer asking for his finance team (wrong seat) and has two pre-call questions on integrations (Bill.com) and security (SOC 2).",
+    "evidence": [
+      "The right company but the wrong seat (an engineer, an analyst, an executive assistant asking on someone's behalf).",
+      "A real question before they want a call (security review, integrations, pricing).",
+      "Companies with 50 to 2,000 employees."
+    ],
+    "subject": "Re: Bill.com integration and SOC 2",
+    "body": "Hi Tom,\n\nThanks for checking on your finance team's behalf. Here are both answers:\n\n1. Bill.com: not supported yet. The integrations we have today are Brex, Ramp, Amex, QuickBooks, Xero, NetSuite and Gusto.\n\n2. SOC 2: yes, we have a SOC 2 Type II report. We share it under NDA after a first call.\n\nIf that works for your team, they can pick a time here: https://cal.example.com/harborline/intro\n\nSam, Harborline"
+  },
+  "c103": {
+    "fit": "poor",
+    "reply": "point_to_guide",
+    "reason": "Jordan is a student asking for an MBA case study interview. They used a personal Gmail address, gave no company, and HubSpot has no company record, so this is not a buyer.",
+    "evidence": [
+      "Students, job seekers, vendors pitching us, agencies asking to resell.",
+      "Personal email addresses with no company named anywhere in the form."
+    ],
+    "subject": "Your MBA case study on finance software",
+    "body": "Hi Jordan,\n\nThanks for thinking of Harborline for your case study. We can't set up team interviews, but here is some background you're welcome to use.\n\nHarborline is a spend analytics tool for finance teams. It reads card, bill and payroll data and tells the controller where the month went. Pricing starts at $1,200 a month.\n\nOur public guide has more detail on how it works and may help your research:\nhttps://harborline.example.com/guide\n\nGood luck with the MBA project.\n\nSam, Harborline"
+  },
+  "c105": {
+    "fit": "strong",
+    "reply": "book_call",
+    "reason": "Strong fit: the CFO of an 85-person company already on QuickBooks and Ramp named vendor sprawl as the problem. One thing to check: our CRM lists the industry as Design, which I counted as professional services.",
+    "evidence": [
+      "- Finance, accounting or operations leaders (controller, VP Finance, CFO, head of FP&A, RevOps lead) at the buyer company.",
+      "- Companies with 50 to 2,000 employees.",
+      "- They already use a card program (Brex, Ramp, Amex) or an accounting system (QuickBooks, Xero, NetSuite)."
+    ],
+    "subject": "Getting a handle on vendor sprawl at Tallgrass Studio",
+    "body": "Hi Marcus,\n\nThanks for reaching out. I'd be glad to show you how Harborline handles vendor sprawl on a short call. You can pick a time here: https://cal.example.com/harborline/intro\n\nHarborline works with both QuickBooks and Ramp, so it can read your card and bill data and show you where the month went, including which vendors are adding up.\n\nOn the call we can look at what you're seeing today and whether Harborline is a good fit for your team.\n\nSam, Harborline"
+  },
+  "c108": {
+    "fit": "poor",
+    "reply": "point_to_guide",
+    "reason": "Ledgerworks Advisory is an accounting firm asking to resell Harborline to its clients, and our CRM lists it at 12 employees, under the 20-employee floor.",
+    "evidence": [
+      "Students, job seekers, vendors pitching us, agencies asking to resell.",
+      "Companies under 20 employees."
+    ],
+    "subject": "Your question about reselling Harborline",
+    "body": "Hi Nina,\n\nThanks for reaching out and for thinking of Harborline for your clients.\n\nWe don't offer reseller arrangements or partner margins, so I can't put a resale offer together for you.\n\nIf any of your clients want to learn more about the product on their own, our public guide covers how Harborline works and what it connects to (QuickBooks included): https://harborline.example.com/guide\n\nThanks again for your interest.\n\nSam, Harborline"
+  }
+}

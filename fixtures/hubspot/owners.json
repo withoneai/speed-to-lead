@@ -1,0 +1,6 @@
+{
+  "results": [
+    { "id": "501", "email": "dana@harborline.example.com", "firstName": "Dana", "lastName": "Whitfield" },
+    { "id": "502", "email": "leo@harborline.example.com", "firstName": "Leo", "lastName": "Martins" }
+  ]
+}

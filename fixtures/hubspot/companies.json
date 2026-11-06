@@ -1,0 +1,12 @@
+{
+  "associations": { "c101": "9001", "c102": "9002", "c104": "9004", "c105": "9005", "c106": "9006", "c107": "9007", "c108": "9008" },
+  "results": [
+    { "id": "9001", "properties": { "name": "Kestrel Freight", "domain": "kestrelfreight.com", "industry": "Logistics and Supply Chain", "numberofemployees": "340", "lifecyclestage": "lead", "hs_num_open_deals": "0", "hubspot_owner_id": "" } },
+    { "id": "9002", "properties": { "name": "Lumen Ledger", "domain": "lumenledger.io", "industry": "Computer Software", "numberofemployees": "120", "lifecyclestage": "lead", "hs_num_open_deals": "0", "hubspot_owner_id": "" } },
+    { "id": "9004", "properties": { "name": "Quarry Health", "domain": "quarryhealth.com", "industry": "Hospital and Health Care", "numberofemployees": "900", "lifecyclestage": "customer", "hs_num_open_deals": "0", "hubspot_owner_id": "501" } },
+    { "id": "9005", "properties": { "name": "Tallgrass Studio", "domain": "tallgrass.studio", "industry": "Design", "numberofemployees": "85", "lifecyclestage": "lead", "hs_num_open_deals": "0", "hubspot_owner_id": "" } },
+    { "id": "9006", "properties": { "name": "Brightwater Labs", "domain": "brightwaterlabs.com", "industry": "Computer Software", "numberofemployees": "600", "lifecyclestage": "opportunity", "hs_num_open_deals": "1", "hubspot_owner_id": "502" } },
+    { "id": "9007", "properties": { "name": "Copperline", "domain": "copperline.co", "industry": "Retail", "numberofemployees": "60", "lifecyclestage": "lead", "hs_num_open_deals": "0", "hubspot_owner_id": "502" } },
+    { "id": "9008", "properties": { "name": "Ledgerworks Advisory", "domain": "ledgerworks.co", "industry": "Accounting", "numberofemployees": "12", "lifecyclestage": "lead", "hs_num_open_deals": "0", "hubspot_owner_id": "" } }
+  ]
+}

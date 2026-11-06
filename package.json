@@ -1,0 +1,26 @@
+{
+  "name": "speed-to-lead",
+  "version": "1.0.0",
+  "description": "An AI agent for speed to lead: every new HubSpot lead checked against an ICP written in plain English, read against what HubSpot already knows about the company, and answered with the right first reply as a Gmail draft within minutes, with the waiting clock on every one. Built on One.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsx src/check.ts",
+    "start": "tsx src/index.ts",
+    "test": "tsx --test test/*.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "@withone/sdk": "^0.6.0",
+    "dotenv": "^16.4.5",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "license": "MIT"
+}
